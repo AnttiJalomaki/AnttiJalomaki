@@ -1,4 +1,5 @@
-### Welding stuff together👨‍🏭
+### Welding lines together👨‍🏭
+Public useful projects are at https://github.com/nevaberry/
 
 <!--
 **AnttiJalomaki/AnttiJalomaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
